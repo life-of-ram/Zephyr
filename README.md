@@ -8,6 +8,7 @@ HTML docs
 -> index.html (home page)
 -> business.html
 -> individuals.html
+-> about.html
 -> signup.html
 -> thanks.html
 
@@ -23,7 +24,7 @@ Project Parameters
 
 1. Use of html tags and css for designing webpage[sections- header,footer, menu, contents] (20 marks)
 
-   The project consists of 5 html pages built using html5. They contain header, navigation bar, contents - text and images, menu buttons, footer, etc.
+   The project consists of 6 html pages built using html5. They contain header, navigation bar, contents - text and images, menu buttons, footer, etc.
    They are bootstrapped and are responsive.
 
 2. Use of CSS layouts, html forms and navigation (10 marks)
