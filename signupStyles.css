@@ -53,6 +53,17 @@
   text-align: left;
 }
 
+.buttonText {
+  color: #000;
+  font-family: "Montserrat";
+  text-decoration: none;
+}
+
+.buttonSection:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
 .btn:focus {
   box-shadow: none;
 }
